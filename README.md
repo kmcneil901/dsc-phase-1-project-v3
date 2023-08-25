@@ -27,7 +27,7 @@ First, Copilots Consulting looked at the shear volume of accidents in these thre
 
 ### Results
 
-1. ENGINE COUNT
+# 1. ENGINE COUNT
 
    
 ![1](https://github.com/ahendricks2/dsc-phase-1-project-v3/assets/139075900/7e46ef87-8635-453c-ae96-db703f93ebad)
@@ -42,7 +42,7 @@ First, Copilots Consulting looked at the shear volume of accidents in these thre
 
 
 
-2. ENGINE TYPE
+# 2. ENGINE TYPE
 
 ![4](https://github.com/ahendricks2/dsc-phase-1-project-v3/assets/139075900/316c9d5e-1179-44ea-96bc-8150e995d5c8)
 
@@ -56,7 +56,7 @@ First, Copilots Consulting looked at the shear volume of accidents in these thre
 
 
 
-3. AIRCRAFT MAKE
+# 3. AIRCRAFT MAKE
 
    
 ![7](https://github.com/ahendricks2/dsc-phase-1-project-v3/assets/139075900/8fc01feb-6a94-40f2-9eaf-5a759e8b1111)
