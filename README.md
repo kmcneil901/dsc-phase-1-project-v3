@@ -27,7 +27,7 @@ First, Copilots Consulting looked at the shear volume of accidents in these thre
 
 ### Results
 
-# 1. ENGINE COUNT
+### 1. Engine Count Data
 
    
 ![1](https://github.com/ahendricks2/dsc-phase-1-project-v3/assets/139075900/7e46ef87-8635-453c-ae96-db703f93ebad)
@@ -42,7 +42,7 @@ First, Copilots Consulting looked at the shear volume of accidents in these thre
 
 
 
-# 2. ENGINE TYPE
+### 2. Engine Type Data
 
 ![4](https://github.com/ahendricks2/dsc-phase-1-project-v3/assets/139075900/316c9d5e-1179-44ea-96bc-8150e995d5c8)
 
@@ -56,7 +56,7 @@ First, Copilots Consulting looked at the shear volume of accidents in these thre
 
 
 
-# 3. AIRCRAFT MAKE
+### 3. Aircraft Make Data
 
    
 ![7](https://github.com/ahendricks2/dsc-phase-1-project-v3/assets/139075900/8fc01feb-6a94-40f2-9eaf-5a759e8b1111)
@@ -79,10 +79,15 @@ Based on the data analysis, Copilots Consulting recommends purchasing aircrafts 
 
 ### Next Steps
 
+For next steps, Copilots Consulting recommends looking into airplane data overall and data pertaining to aircraft finances and profitability. However, the analysis on accident data performed here is a great starting point for identifying lowrisk aircrafts. 
+
 ### For More Information
 Additional Links and Resources: 
 1. Tableau Dashboard: https://public.tableau.com/app/profile/andrew.hendricks6984/viz/CopilotsProject1Dashboard/MakeDash
 2. Presentation Slides
+
+   [Copilots Consulting_Aircraft Accident_Data Analysis_Deck.pdf](https://github.com/ahendricks2/dsc-phase-1-project-v3/files/12441123/Copilots.Consulting_Aircraft.Accident_Data.Analysis_Deck.pdf)
+
 
 For additional information, contact:
 1. Andrew Hendricks at AndrewHHendricks@gmail.com. 
