@@ -27,6 +27,47 @@ First, Copilots Consulting looked at the shear volume of accidents in these thre
 
 ### Results
 
+### 1. Engine Count Data
+
+   
+![1](https://github.com/ahendricks2/dsc-phase-1-project-v3/assets/139075900/7e46ef87-8635-453c-ae96-db703f93ebad)
+
+
+
+![2](https://github.com/ahendricks2/dsc-phase-1-project-v3/assets/139075900/10467477-16b5-487a-ab16-1afa540ec733)
+
+
+
+![3](https://github.com/ahendricks2/dsc-phase-1-project-v3/assets/139075900/a68a28e5-cf67-4745-bd70-dbe0ea751a6e)
+
+
+
+### 2. Engine Type Data
+
+![4](https://github.com/ahendricks2/dsc-phase-1-project-v3/assets/139075900/316c9d5e-1179-44ea-96bc-8150e995d5c8)
+
+
+
+![5](https://github.com/ahendricks2/dsc-phase-1-project-v3/assets/139075900/dc4a5382-51e5-411a-a8a3-c9e7f1e2ea45)
+
+
+
+![6](https://github.com/ahendricks2/dsc-phase-1-project-v3/assets/139075900/de6f2f1a-75e6-4f87-b77d-3559321863cf)
+
+
+
+### 3. Aircraft Make Data
+
+   
+![7](https://github.com/ahendricks2/dsc-phase-1-project-v3/assets/139075900/8fc01feb-6a94-40f2-9eaf-5a759e8b1111)
+
+
+
+![8](https://github.com/ahendricks2/dsc-phase-1-project-v3/assets/139075900/68992100-8090-4848-800a-e91b4041ad3a)
+
+
+
+![9](https://github.com/ahendricks2/dsc-phase-1-project-v3/assets/139075900/7f756a55-2b20-4d07-9d2c-e9b962b2e494)
 
 
 
@@ -38,11 +79,15 @@ Based on the data analysis, Copilots Consulting recommends purchasing aircrafts 
 
 ### Next Steps
 
+For next steps, Copilots Consulting recommends looking into airplane data overall and data pertaining to aircraft finances and profitability. However, the analysis on accident data performed here is a great starting point for identifying lowrisk aircrafts. 
+
 ### For More Information
-Important Links: 
-1. Full Jupyter Notebook
-2. Tableau Dashboard
-3. Presentation Slides
+Additional Links and Resources: 
+1. Tableau Dashboard: https://public.tableau.com/app/profile/andrew.hendricks6984/viz/CopilotsProject1Dashboard/MakeDash
+2. Presentation Slides
+
+   [Copilots Consulting_Aircraft Accident_Data Analysis_Deck.pdf](https://github.com/ahendricks2/dsc-phase-1-project-v3/files/12441123/Copilots.Consulting_Aircraft.Accident_Data.Analysis_Deck.pdf)
+
 
 For additional information, contact:
 1. Andrew Hendricks at AndrewHHendricks@gmail.com. 
